@@ -1,0 +1,106 @@
+* {
+    margin:0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: black;
+    background-size: cover;
+}
+
+.post{
+    width: 350px;
+    height: auto;
+    background-color: #ffffff;
+    margin: 10% auto;
+    border-radius: 0%;
+}
+
+.post-header2{
+   display: flex;
+}
+
+.Fa-html5{
+   padding: 15px 20px;
+   font-size: 24px;
+   transition: transform 0.3s ease;
+}
+
+.HTML5{
+   padding: 1px 5px;
+   font-size: 15px;
+   transition: transform 0.3s ease;
+   font-family: Arial;
+   display: block;
+   margin: 5px 0
+}
+
+.texto-header{
+   padding: 5px 0;
+   font-size: 10px;
+   transition: transform 0.3s ease;
+   font-family: Arial;
+}
+
+.Rigoberto{
+   padding: 5px 5px;
+   font-size: 10px;
+   transition: transform 0.3s ease;
+   font-family: Arial;
+}
+
+.Fa-ellipsis-vertical{
+   padding: 15px 20px;
+   font-size: 24px;
+   transition: transform 0.3s ease;
+   margin-left: auto;
+}
+
+.Icon-html5{
+    width: 100%;
+    font-size: 15px;
+    font-family: Arial;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+ }
+
+ .Image{
+   width: 350px;
+   height: 350px
+}
+
+.hearth-comment-send{
+   display: flex;
+}
+
+.Fa-heart{
+   padding: 5px 5px;
+}
+
+.Fa-comment{
+   padding: 5px 5px;
+}
+
+.Fa-paper-plane{
+   padding: 5px 5px;
+}
+
+.Fa-bookmark{
+   padding: 5px 10px;
+   margin-left: auto;
+}
+
+.parrafo1{
+   font-family: Arial;
+   font-size: 12px;
+   padding: 10px 10px;
+}
+.parrafo2{
+   font-family: Arial;
+   font-size: 12px;
+   padding: 10px 10px;
+   text-align: justify;
+}
